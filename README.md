@@ -14,4 +14,5 @@ d is the number of equal segments on r and k = ⌈log2 b⌉) and the number of a
 solutions is s). Our proposed BMGS algorithm is benchmarked against state-of-the-art 
 DFGS, PGS, and standard GS implementations for an arbitrary number of solutions 
 with 2 to 20 qubits. We also show our BMGS requires fewer iterations for large b and d 
-and archives an O(s√N) average complexity. 
+and archives an O(s√N) average complexity. In this repository is our implementation
+of BMGS.
